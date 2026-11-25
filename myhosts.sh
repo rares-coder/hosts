@@ -18,3 +18,4 @@ do
   fi
   verifica_ip "$nume" "$ip" "8.8.8.8"
 done
+echo "Mihu Darius"
